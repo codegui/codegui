@@ -1,4 +1,4 @@
-Olá, sou Guilherme Matias, Estudante de desenvolvimento front-end. 
+Estudante de desenvolvimento front-end. 
 Atualmente, estou focado em aprimorar minhas habilidades em HTML, CSS e JavaScript para construir interfaces intuitivas e atraentes.
 
 - 🔭 Estudante Front-End
