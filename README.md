@@ -1,5 +1,5 @@
 Estudante de desenvolvimento front-end. <br>
-Atualmente, estou focado em aprimorar minhas habilidades em HTML, CSS e JavaScript para construir interfaces intuitivas e atraentes.
+Atualmente estou focado em aprimorar minhas habilidades em HTML, CSS e JavaScript para construir interfaces intuitivas e atraentes.
 
 - 🔭 Estudante Front-End
 - 🌱 Estudando HTML, CSS, JavaScript  
