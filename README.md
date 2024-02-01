@@ -1,4 +1,4 @@
-Estudante de desenvolvimento front-end com interesse em aprimorar habilidades Back-end.
+Estudante de desenvolvimento Front-end com interesse em aprimorar habilidades Back-end.
 
 - 🔭 Estudante Front-End
 - 🌱 Estudando HTML, CSS, JavaScript, explorando o desenvolvimento back-end  
