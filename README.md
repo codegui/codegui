@@ -1,7 +1,6 @@
-Estudante de desenvolvimento Front-end com interesse em aprimorar habilidades Back-end.
+Estudante de desenvolvimento, focado em aprimorar minhas habilidades tanto no Front-end quanto no Back-end.
 
-- 🔭 Estudante Front-End/Back-end
-- 🌱 Estudando HTML, CSS, JavaScript, explorando o desenvolvimento Back-end  
+- 🌱 Explorando HTML, CSS, JavaScript e Python para Back-end.
 - 📫 contacte-me no email: guihermematias@live.com
 
 <div align="center">
